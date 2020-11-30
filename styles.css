@@ -2,7 +2,7 @@
     color: #00334e;
 }
 body, #login-container, #divider h4{
-    background-image: url('./images/extra_clean_paper.png');
+    background-image: url('extra_clean_paper.png');
     background-color: #f1e2ff;
     background-blend-mode: multiply;
 }
