@@ -1,6 +1,7 @@
 *{
     color: #00334e;
 }
+
 body, #login-container, #divider h4{
     background-image: url('extra_clean_paper.png');
     background-color: #f1e2ff;
@@ -13,7 +14,7 @@ body, #login-container, #divider h4{
 }
 
 i{
-    color: #be9fe1;
+    color: #393e46;
 }
 
 .btn{
@@ -79,6 +80,7 @@ i{
     top: -0.1rem;
     left: 1.8rem;
     padding: 0 5px;
+    background-image: linear-gradient(transparent 52%, #f4eeff 48%);
 }
 
 #forgot-password{
@@ -108,4 +110,16 @@ i{
     top: -25px;
     box-shadow: 1px 1px 5px #ceb5ce, 
     -1px -1px 5px #ffffff;
+}
+
+#email-safe{
+    color: grey; 
+    font-size: 0.8rem; 
+    position: absolute;
+    bottom: -1rem;
+    left: 2.5rem;
+}
+
+#email-safe i{
+    color: grey;
 }
