@@ -115,7 +115,7 @@ i{
 }
 
 #email-safe{
-    color: black; 
+    color: grey; 
     font-size: 0.8rem; 
     position: absolute;
     bottom: -1rem;
