@@ -1,1 +1,1 @@
-# chat_cord 
+# chat_cord 100..1 
