@@ -1,2 +1,2 @@
 # chat_cord 100..1 
-hey
+hey hello world
