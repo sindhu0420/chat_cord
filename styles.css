@@ -1,4 +1,4 @@
-*{
+*{ 
     color: #00334e;
 }
 body, #login-container, #divider h4{
@@ -212,7 +212,7 @@ i{
 .chat-messages .message .meta {
 	font-size: 15px;
 	font-weight: bold;
-	color: black;
+	color: grey;
 	opacity: 0.7;
 	margin-bottom: 7px;
 }
